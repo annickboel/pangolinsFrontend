@@ -13,5 +13,19 @@
 }
 .menu-item {
 	font-weight:300;
-	font-size:1rem;
+	font-size:0.8rem;
+}
+
+.user {
+	font-weight: bold;
+	font-size:0.8rem;
+	color: #f8846d;
+	padding-left:0.5rem;
+}
+.user-dropdown {
+	font-weight: bold;
+	font-size:0.8rem;
+	color: #f8846d;
+	padding-left:16px;
+	padding-bottom : 0.5rem;
 }
